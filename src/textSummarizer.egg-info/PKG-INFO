@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/oussamaJMAA/Text-Summarization
+Author: oussamaJMAA
+Author-email: jemaaoussama64@gmail.com
+Project-URL: Bug Tracker, https://github.com/oussamaJMAA/Text-Summarization/issues
+
+# Text-Summarization
+Text Summarization app with CI-CD pipeline
